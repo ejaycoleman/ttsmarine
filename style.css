@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #1F262D;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #ff3e34;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 84px;
+}
+
+header {
+    padding: 50px;
+    color: white;
+}
+
+
+.section {
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.certified {
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    font-size: 25px;
+}
+
+.certified h3 {
+    padding-top: 20px;
+    color: white;
+    /* font-size: 30px; */
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.content {
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+.certificates {
+	width: 100px;
+	height: auto;
+}
+
+.content img {
+	vertical-align: middle; 
+}
+
+.contact {
+    padding-top: 100px;
+    list-style-type: none;
+}
+
+.contact .content a {
+    color: white;
+    text-decoration: none;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contact .content a:hover {
+    text-decoration: underline;
+}
+
+.contact .content li {
+    margin-top: 10px;
+}
+
+.info {
+    padding-top: 50px;
+}
